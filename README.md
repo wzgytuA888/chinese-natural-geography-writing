@@ -35,3 +35,4 @@ git clone https://github.com/wzgytuA888/chinese-natural-geography-writing.git ~/
 ## 版权说明
 
 本仓库只包含综合提炼后的写作规律和原创组织结构，不提供源论文文本。使用者仍应遵守相关论文、数据和参考文献的版权及引用规范。
+

@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国自然地理学中文论文写作"
+  short_description: "提炼并应用自然地理学中文论文的语言、逻辑与机制论证范式"
+  default_prompt: "Use $chinese-natural-geography-writing to revise this Chinese natural-geography manuscript with rigorous mechanism-based reasoning."
