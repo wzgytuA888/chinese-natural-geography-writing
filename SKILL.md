@@ -5,7 +5,7 @@ description: 分析、修改或生成自然地理学与地理科学领域的中�
 
 # 中国自然地理学中文论文写作
 
-本 Skill 从 16 篇自然地理学、资源环境与地理科学中文论文中提炼写作规律。只迁移写作方法、表达策略和论证范式，不复述或复制原文。
+本 Skill 从 37 篇自然地理学、资源环境与地理科学中文论文中提炼写作规律。只迁移写作方法、表达策略和论证范式，不复述或复制原文。
 
 ## 核心原则
 
@@ -14,6 +14,8 @@ description: 分析、修改或生成自然地理学与地理科学领域的中�
 3. **机制必须包含中间过程**：不要只写“A 影响 B”，应交代 A 改变了什么状态或过程，该变化如何传递至 B，以及这一作用受何种尺度、阈值或背景约束。
 4. **结果与讨论分工明确**：结果回答“发现了什么”；讨论回答“为什么、与谁一致或不同、在何种条件下成立、意味着什么”。
 5. **学术化不等于堆砌术语**：优先提高概念精度、关系清晰度和证据匹配度，再考虑词汇升级。
+6. **模型贡献不等于物理因果**：特征重要性、相对贡献、探测力、路径系数和空间回归系数分别回答不同问题，必须按其统计含义表述。
+7. **串联模型逐级验证**：多源数据、反演、降尺度、过程模型和下游评价串联时，应交代每一级的验证依据及误差可能如何传递。
 
 ## 写作决策框架
 
@@ -25,6 +27,8 @@ description: 分析、修改或生成自然地理学与地理科学领域的中�
 - **机制层**：通过改变……，进而调控……；在……约束下形成……路径；该过程可能与……有关。
 
 不得跨越证据层级。例如，仅有空间相关分析时，不得直接使用“导致”或“决定”。
+
+对于特殊模型结果，优先采用其本义：结构方程写“直接/间接效应”，空间模型写“本地/邻近效应”，机器学习写“预测贡献或重要性”，地理探测器写“空间分异解释力”，相对重要性写“模型内解释份额”。
 
 ### 五段推理链
 
@@ -65,6 +69,27 @@ description: 分析、修改或生成自然地理学与地理科学领域的中�
 | [ch14](chapters/ch14-coupling-coordination.md) | 耦合协调、时空演化与影响因素 |
 | [ch15](chapters/ch15-urban-agglomeration-strategy.md) | 空间结构、网络联系与优化策略 |
 | [ch16](chapters/ch16-ecosystem-services-drivers.md) | 生态系统服务、驱动阈值与分区调控 |
+| [ch17](chapters/ch17-climate-hiatus-stage.md) | 气候停滞、突变检验与阶段比较 |
+| [ch18](chapters/ch18-phenology-thermal-requirement.md) | 物候积温需求、冷激过程与多算法验证 |
+| [ch19](chapters/ch19-composite-security-pattern.md) | 综合安全评价、空间集聚与多情景影响 |
+| [ch20](chapters/ch20-distance-dynamic-effect.md) | 理论争议、距离动态效应与稳健性 |
+| [ch21](chapters/ch21-resource-accessibility.md) | 资源点格局、交通可达性与区位潜力 |
+| [ch22](chapters/ch22-resource-economy-matching.md) | 资源—经济匹配、要素弹性与增长阻尼 |
+| [ch23](chapters/ch23-multisource-glacier-model.md) | 多源遥感、冰川模型与误差验证链 |
+| [ch24](chapters/ch24-climate-season-downscaling.md) | 气候季节划分、降尺度与高海拔误差 |
+| [ch25](chapters/ch25-sem-direct-indirect.md) | 结构方程、直接间接效应与路径机制 |
+| [ch26](chapters/ch26-mobile-signaling-spatial-types.md) | 手机信令、空间类型归纳与形成因素 |
+| [ch27](chapters/ch27-historical-reconstruction-validation.md) | 历史格局重建、串联模型与精度门槛 |
+| [ch28](chapters/ch28-gee-crop-disaster.md) | 云平台、作物模型与像元灾损评估 |
+| [ch29](chapters/ch29-snowline-remote-monitoring.md) | 雪线遥感提取、阈值率定与代理指标 |
+| [ch30](chapters/ch30-environmental-stress-gwr.md) | 环境胁迫、空间溢出与局地回归 |
+| [ch31](chapters/ch31-event-process-precipitation.md) | 极端降水事件过程与类型细分 |
+| [ch32](chapters/ch32-grass-livestock-scenario-zoning.md) | 草畜平衡、补饲情景与保护分区 |
+| [ch33](chapters/ch33-pm25-spatial-spillover.md) | 污染格局、空间溢出与城市群异质性 |
+| [ch34](chapters/ch34-relative-importance-productivity.md) | 植被生产力与相对重要性归因 |
+| [ch35](chapters/ch35-relational-network-qap.md) | 关系数据、空间网络与QAP机制 |
+| [ch36](chapters/ch36-machine-learning-driver-evolution.md) | 机器学习关键因子与阶段演进 |
+| [ch37](chapters/ch37-desertification-sensitivity.md) | 沙漠化敏感性、类型转移与驱动探测 |
 
 ## 执行要求
 
@@ -81,3 +106,4 @@ description: 分析、修改或生成自然地理学与地理科学领域的中�
 - 不把政策建议写成脱离结果的口号。
 - 不在一个长句中叠加超过三层并列关系；必要时拆成“判断句 + 解释句”。
 - 不复制语料论文的连续原句，只使用抽象后的句法与论证结构。
+- 不把模型拟合良好写成理论结构得到唯一验证，也不把尺度聚合后的验证外推为更细尺度精度。
