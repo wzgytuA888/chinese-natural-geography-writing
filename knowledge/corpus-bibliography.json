@@ -1,0 +1,2613 @@
+[
+  {
+    "paper_id": "p001",
+    "journal": "地理学报",
+    "year": 2010,
+    "title": "基于水文随机方法的大尺度径流空间插值图化研究——淮河流域蚌埠以上区间为例",
+    "authors": "严子奇, 夏军, Lars Gottschalk",
+    "doi": "10.11821/xb201007008",
+    "filename": "2010_严子奇_基于水文随机方法的大尺度径流空间插值图化研究——淮河流域蚌埠以上区间为例.pdf",
+    "position": "地理学报. 2010, 65(7): 841-852.",
+    "sha256": "2ab76b72a4c6e4e98157b2501791d9f8969ab167e55895a1ce6f1772e1fa321a",
+    "pdf_pages": 12,
+    "han_body_chars": 7618,
+    "sentence_count": 144,
+    "heading_count": 4,
+    "section_sentence_counts": {},
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p002",
+    "journal": "生态学报",
+    "year": 2015,
+    "title": "石羊河流域河川径流对气候与土地利用变化的响应",
+    "authors": "周俊菊,雷莉,石培基,王兰英,魏伟,刘海猛",
+    "doi": "10.5846/stxb201307311997",
+    "filename": "2015_周俊菊_石羊河流域河川径流对气候与土地利用变化的响应.pdf",
+    "position": "2015, 35(11):3788-3796.",
+    "sha256": "994a979db7342e1dfd32f3921f2e65c0a4cda99fd6c7e101f41cb768b5e88ea1",
+    "pdf_pages": 9,
+    "han_body_chars": 4005,
+    "sentence_count": 54,
+    "heading_count": 22,
+    "section_sentence_counts": {
+      "methods": 21,
+      "body_other": 23,
+      "results": 9,
+      "conclusion": 3
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p003",
+    "journal": "生态学报",
+    "year": 2018,
+    "title": "基于WRF模式评估土地利用/覆被变化的气候和水文效应",
+    "authors": "廉丽姝,李宝富,陈忠升,陈亚宁,孙小银",
+    "doi": "10.5846/stxb201612262674",
+    "filename": "2018_廉丽姝_基于WRF模式评估土地利用_覆被变化的气候和水文效应.pdf",
+    "position": "2018, 38(3):917-925.",
+    "sha256": "940bd8322818ad58bba7a5a81f510189ecc178ce1dd1bfd113cdbea143220c60",
+    "pdf_pages": 9,
+    "han_body_chars": 3158,
+    "sentence_count": 61,
+    "heading_count": 15,
+    "section_sentence_counts": {
+      "methods": 19,
+      "results": 24,
+      "discussion": 10,
+      "conclusion": 8
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "WRF"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p004",
+    "journal": "生态学报",
+    "year": 2018,
+    "title": "基于SWAT模型的乌鲁木齐河上游土地利用和气候变化对径流的影响",
+    "authors": "祖拜代·木依布拉,师庆东,普拉提·莫合塔尔,张润",
+    "doi": "10.5846/stxb201704190699",
+    "filename": "2018_祖拜代·木依布拉_基于SWAT模型的乌鲁木齐河上游土地利用和气候变化对径流的影响.pdf",
+    "position": "2018, 38(14):5149-5157.",
+    "sha256": "468b04b49a40b0c5b8b3fe463435bf32b850dbec9e00932c66d96998d0f02f30",
+    "pdf_pages": 9,
+    "han_body_chars": 2451,
+    "sentence_count": 53,
+    "heading_count": 10,
+    "section_sentence_counts": {
+      "methods": 17,
+      "results": 20,
+      "discussion": 18
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "SWAT",
+      "NSE"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p005",
+    "journal": "地理学报",
+    "year": 2020,
+    "title": "气候与土地利用变化对汉江流域径流的影响",
+    "authors": "田晶, 郭生练, 刘德地, 陈启会, 王强, 尹家波, 吴旭树, 何绍坤",
+    "doi": "10.11821/dlxb202011003",
+    "filename": "2020_田晶_气候与土地利用变化对汉江流域径流的影响.pdf",
+    "position": "地理学报. 2020, 75(11): 2307-2318.",
+    "sha256": "759d1b53d1f4fce6e1766ef3d701e6a16723290a2307f41e2bcbbc9182a14cff",
+    "pdf_pages": 12,
+    "han_body_chars": 5118,
+    "sentence_count": 86,
+    "heading_count": 21,
+    "section_sentence_counts": {
+      "introduction": 13,
+      "methods": 24,
+      "results_discussion": 41,
+      "conclusion": 8
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "SWAT",
+      "Kappa",
+      "NSE",
+      "Mann-Kendall"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p006",
+    "journal": "生态学报",
+    "year": 2021,
+    "title": "福建省森林生态系统水源涵养服务评估:InVEST模型与meta分析对比",
+    "authors": "刘业轩，石晓丽，史文娇",
+    "doi": "10.5846/stxb202003210632",
+    "filename": "2021_刘业轩_福建省森林生态系统水源涵养服务评估_InVEST模型与meta分析对比.pdf",
+    "position": "2021, 41(4):1349-1361.",
+    "sha256": "584b8fc1967e5edc8cfd617c77ceca1028b5be7f484fa87ca97689cbc1d3cc84",
+    "pdf_pages": 13,
+    "han_body_chars": 5858,
+    "sentence_count": 90,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "methods": 30,
+      "results": 28,
+      "discussion": 27,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "SWAT",
+      "ARIES"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p007",
+    "journal": "生态学报",
+    "year": 2021,
+    "title": "基于InVEST模型的金沙江流域干热河谷区水源涵养功能评估",
+    "authors": "刘娇，郎学东，苏建荣，刘万德，刘华妍，田宇",
+    "doi": "10.5846/stxb202101050035",
+    "filename": "2021_刘娇_基于InVEST模型的金沙江流域干热河谷区水源涵养功能评估.pdf",
+    "position": "2021, 41(20):8099-8111.",
+    "sha256": "321cb12077e9e889c6512bc29642856e0b6ee3ef509792b7d2f17e4813a29eb8",
+    "pdf_pages": 13,
+    "han_body_chars": 4850,
+    "sentence_count": 78,
+    "heading_count": 15,
+    "section_sentence_counts": {
+      "methods": 18,
+      "results": 27,
+      "discussion": 20,
+      "conclusion": 13
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "Budyko",
+      "Kappa"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p008",
+    "journal": "地理学报",
+    "year": 2021,
+    "title": "粤港澳大湾区生态系统服务价值的时空演化及其影响机制",
+    "authors": "刘志涛, 王少剑, 方创琳",
+    "doi": "10.11821/dlxb202111014",
+    "filename": "2021_刘志涛_粤港澳大湾区生态系统服务价值的时空演化及其影响机制.pdf",
+    "position": "地理学报. 2021, 76(11): 2797-2813.",
+    "sha256": "4f51d99b672a25aa7001bc215b58aff3167bf8774f3b10386434a70d22d5b0e6",
+    "pdf_pages": 17,
+    "han_body_chars": 10143,
+    "sentence_count": 138,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "introduction": 26,
+      "methods": 91,
+      "discussion": 22
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p009",
+    "journal": "生态学报",
+    "year": 2021,
+    "title": "基于InVEST模型的疏勒河流域碳储量时空变化研究",
+    "authors": "刘洋，张军，周冬梅，马静，党锐，马靖靖，朱小燕",
+    "doi": "10.5846/stxb201911152452",
+    "filename": "2021_刘洋_基于InVEST模型的疏勒河流域碳储量时空变化研究.pdf",
+    "position": "2021, 41(10):4052-4065.",
+    "sha256": "938cbd0e445c3981e4f749bb24bba302b46ecad81895e3fbea2671242e22b122",
+    "pdf_pages": 14,
+    "han_body_chars": 6196,
+    "sentence_count": 86,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "methods": 24,
+      "results": 45,
+      "discussion": 15,
+      "conclusion": 2
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "Kappa"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p010",
+    "journal": "地理学报",
+    "year": 2021,
+    "title": "珠三角地区城镇化与生态韧性的耦合协调研究",
+    "authors": "王少剑, 崔子恬, 林靖杰, 谢金燕, 苏坤",
+    "doi": "10.11821/dlxb202104013",
+    "filename": "2021_王少剑_珠三角地区城镇化与生态韧性的耦合协调研究.pdf",
+    "position": "地理学报. 2021, 76(4): 973-991.",
+    "sha256": "92786f365029edd49cd892ffbef5df5be4ac48322e5d64ebd705f9220b235ed5",
+    "pdf_pages": 19,
+    "han_body_chars": 10229,
+    "sentence_count": 156,
+    "heading_count": 27,
+    "section_sentence_counts": {
+      "introduction": 21,
+      "body_other": 15,
+      "methods": 57,
+      "results": 54,
+      "discussion": 10
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "耦合协调"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p011",
+    "journal": "地理学报",
+    "year": 2021,
+    "title": "黄土高原生态系统服务供需关系的时空变化",
+    "authors": "赵雪雁, 马平易, 李文青, 杜昱璇",
+    "doi": "10.11821/dlxb202111013",
+    "filename": "2021_赵雪雁_黄土高原生态系统服务供需关系的时空变化.pdf",
+    "position": "地理学报. 2021, 76(11): 2780-2796.",
+    "sha256": "a41986ba486eb68d681319693452c4d74f13443545184ddca9bf95b0ecbf2006",
+    "pdf_pages": 17,
+    "han_body_chars": 7624,
+    "sentence_count": 116,
+    "heading_count": 21,
+    "section_sentence_counts": {
+      "introduction": 14,
+      "methods": 26,
+      "results": 48,
+      "discussion": 28
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p012",
+    "journal": "地理学报",
+    "year": 2021,
+    "title": "平原河网区水利工程调控下水文连通变化",
+    "authors": "陆苗, 许有鹏, 高斌, 周才钰",
+    "doi": "10.11821/dlxb202111007",
+    "filename": "2021_陆苗_平原河网区水利工程调控下水文连通变化.pdf",
+    "position": "地理学报. 2021, 76(11): 2685-2696.",
+    "sha256": "945d8a9add69c7875ad6a461da1f0172a7b9cf854599b3d044a59a29fa8c32e2",
+    "pdf_pages": 12,
+    "han_body_chars": 6058,
+    "sentence_count": 113,
+    "heading_count": 14,
+    "section_sentence_counts": {
+      "introduction": 13,
+      "methods": 53,
+      "results_discussion": 41,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p013",
+    "journal": "地理学报",
+    "year": 2022,
+    "title": "基于径流对气候变化敏感性指标的多源数据质量评估",
+    "authors": "倪宁淇, 谢佳鑫, 刘小莽, 王恺文, 田巍",
+    "doi": "10.11821/dlxb202209010",
+    "filename": "2022_倪宁淇_基于径流对气候变化敏感性指标的多源数据质量评估.pdf",
+    "position": "地理学报. 2022, 77(9): 2280-2291.",
+    "sha256": "3aca6dcca850b541c349c50257012a53641907da780aad9c28315ba10ddf8872",
+    "pdf_pages": 12,
+    "han_body_chars": 4353,
+    "sentence_count": 67,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "introduction": 12,
+      "methods": 13,
+      "results": 21,
+      "discussion": 18,
+      "conclusion": 3
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "Budyko"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p014",
+    "journal": "地理学报",
+    "year": 2022,
+    "title": "水文地理研究发展若干问题商榷",
+    "authors": "刘昌明, 刘璇, 杨亚锋, 王红瑞",
+    "doi": "10.11821/dlxb202201001",
+    "filename": "2022_刘昌明_水文地理研究发展若干问题商榷.pdf",
+    "position": "地理学报. 2022, 77(1): 3-15.",
+    "sha256": "4a60a9d9fcd068ae8e756b2aa43ee58e1db036670f9063a02d39a602d332bf76",
+    "pdf_pages": 13,
+    "han_body_chars": 9436,
+    "sentence_count": 160,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "introduction": 14,
+      "body_other": 115,
+      "discussion": 31
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p015",
+    "journal": "地理学报",
+    "year": 2022,
+    "title": "2015—2020年中国土地利用变化遥感制图及时空特征分析",
+    "authors": "匡文慧, 张树文, 杜国明, 颜长珍, 吴世新, 李仁东, 陆灯盛, 潘涛, 宁静, 郭长庆, 董金玮, 包玉海, 迟文峰, 窦银银, 侯亚丽, 尹哲睿, 常丽萍, 杨久春, 谢家丽, 邱娟, 张汉松, 张宇博, 杨仕琪, 萨日盖, 刘纪远",
+    "doi": "10.11821/dlxb202205002",
+    "filename": "2022_匡文慧_2015—2020年中国土地利用变化遥感制图及时空特征分析.pdf",
+    "position": "地理学报. 2022, 77(5): 1056-1071.",
+    "sha256": "aff78240da7dc1435a643890136d77480118ababd015c0da584b43e2e85bf76f",
+    "pdf_pages": 16,
+    "han_body_chars": 8128,
+    "sentence_count": 122,
+    "heading_count": 15,
+    "section_sentence_counts": {
+      "introduction": 13,
+      "methods": 24,
+      "body_other": 76,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "Kappa",
+      "随机森林"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p016",
+    "journal": "生态学报",
+    "year": 2022,
+    "title": "1980-2030年石羊河流域生态系统碳储存服务对土地利用变化的响应",
+    "authors": "卿苗，赵军，冯超，黄治化，温媛媛，张伟婕",
+    "doi": "10.5846/stxb202111253328",
+    "filename": "2022_卿苗_1980-2030年石羊河流域生态系统碳储存服务对土地利用变化的响应.pdf",
+    "position": "2022, 42(23):9525-9536.",
+    "sha256": "e38d18620f4c428fe0ef4bae6c7ac0d5a0ffe9bce750f826789c29247257a104",
+    "pdf_pages": 12,
+    "han_body_chars": 3833,
+    "sentence_count": 67,
+    "heading_count": 15,
+    "section_sentence_counts": {
+      "methods": 13,
+      "results": 49,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "FLUS",
+      "Kappa"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p017",
+    "journal": "地理学报",
+    "year": 2022,
+    "title": "生态保护红线区生态系统服务多维驱动力的定量分离",
+    "authors": "左丽媛, 姜远, 高江波, 杜馥君, 张怡博",
+    "doi": "10.11821/dlxb202209003",
+    "filename": "2022_左丽媛_生态保护红线区生态系统服务多维驱动力的定量分离.pdf",
+    "position": "地理学报. 2022, 77(9): 2174-2188.",
+    "sha256": "e37c9cf978a484f39c6e46dc623d825cf1db6ca98f5da68eab1b26404be6de18",
+    "pdf_pages": 15,
+    "han_body_chars": 7716,
+    "sentence_count": 127,
+    "heading_count": 15,
+    "section_sentence_counts": {
+      "introduction": 25,
+      "methods": 26,
+      "results": 45,
+      "discussion": 23,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "地理探测器"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p018",
+    "journal": "地理学报",
+    "year": 2022,
+    "title": "雅鲁藏布江干流河宽时空变化遥感监测及水文气象响应",
+    "authors": "徐嘉慧, 王世东, 宋利娟, 张大鹏, 宋春桥",
+    "doi": "10.11821/dlxb202211011",
+    "filename": "2022_徐嘉慧_雅鲁藏布江干流河宽时空变化遥感监测及水文气象响应.pdf",
+    "position": "地理学报. 2022, 77(11): 2862-2877.",
+    "sha256": "17ecd3fd7b3017cdb0790973edce981d359d46fe8768812882668077ce930fcc",
+    "pdf_pages": 16,
+    "han_body_chars": 6260,
+    "sentence_count": 104,
+    "heading_count": 17,
+    "section_sentence_counts": {
+      "introduction": 21,
+      "methods": 38,
+      "results": 13,
+      "discussion": 27,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "Kappa"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p019",
+    "journal": "生态学报",
+    "year": 2022,
+    "title": "海绵城市建设对流域海绵体生态水文过程的改善",
+    "authors": "李国婉，夏兵，隋己元，王耀建，杨海军，杨慧琛，王燕华，黎华寿",
+    "doi": "10.5846/stxb202111093140",
+    "filename": "2022_李国婉_海绵城市建设对流域海绵体生态水文过程的改善.pdf",
+    "position": "2022, 42(24):10098-10110.",
+    "sha256": "20000f75dcd0e1d545c76ca734f33b29df47a08bc59e443b8f6a728c05f82d9d",
+    "pdf_pages": 13,
+    "han_body_chars": 4973,
+    "sentence_count": 85,
+    "heading_count": 23,
+    "section_sentence_counts": {
+      "methods": 14,
+      "results": 34,
+      "discussion": 34,
+      "conclusion": 4
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p020",
+    "journal": "生态学报",
+    "year": 2022,
+    "title": "基于土地利用及植被覆盖变化的黄河源区生境质量时空变化特征",
+    "authors": "潘耀，尹云鹤，侯文娟，韩皓爽",
+    "doi": "10.5846/stxb202105131254",
+    "filename": "2022_潘耀_基于土地利用及植被覆盖变化的黄河源区生境质量时空变化特征.pdf",
+    "position": "2022, 42(19):7978-7988.",
+    "sha256": "3d20ac4987860d6b7cee4efb6af92d710f3019af60db0cf082bd3e86ba60cb42",
+    "pdf_pages": 11,
+    "han_body_chars": 3634,
+    "sentence_count": 84,
+    "heading_count": 18,
+    "section_sentence_counts": {
+      "methods": 21,
+      "results": 30,
+      "discussion": 23,
+      "conclusion": 10
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "地理加权回归"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p021",
+    "journal": "地理学报",
+    "year": 2022,
+    "title": "西部地区生态状况变化及生态系统服务权衡与协同",
+    "authors": "牛丽楠, 邵全琴, 宁佳, 黄海波",
+    "doi": "10.11821/dlxb202201013",
+    "filename": "2022_牛丽楠_西部地区生态状况变化及生态系统服务权衡与协同.pdf",
+    "position": "地理学报. 2022, 77(1): 182-195.",
+    "sha256": "8777d887d731a4af15b73cedc43e50447941c504d16615b67e72bc0fa009c333",
+    "pdf_pages": 14,
+    "han_body_chars": 5591,
+    "sentence_count": 62,
+    "heading_count": 23,
+    "section_sentence_counts": {
+      "introduction": 13,
+      "methods": 10,
+      "results": 26,
+      "discussion": 13
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p022",
+    "journal": "生态学报",
+    "year": 2022,
+    "title": "耦合InVEST-HFI-PLUS模型的生态分区规划与动态评估——以博尔塔拉蒙古自治州为例",
+    "authors": "王子尧，黄楚梨，李倞，林箐",
+    "doi": "10.5846/stxb202108202319",
+    "filename": "2022_王子尧_耦合InVEST-HFI-PLUS模型的生态分区规划与动态评估——以博尔塔拉蒙古自治州为例.pdf",
+    "position": "2022, 42(14):5789-5798.",
+    "sha256": "43136f3ae27e016377f43a461faeb5f09b568134dd4a0f05e45337ab76ffbc82",
+    "pdf_pages": 10,
+    "han_body_chars": 4569,
+    "sentence_count": 78,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "methods": 40,
+      "results": 24,
+      "discussion": 15
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "PLUS",
+      "FLUS",
+      "Kappa",
+      "随机森林"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p023",
+    "journal": "生态学报",
+    "year": 2022,
+    "title": "土地利用变化对鸟类栖息地连通性的影响——以鄂州市为例",
+    "authors": "王春晓，何建华，刘殿锋，于秀波，石青青",
+    "doi": "10.5846/stxb201912252795",
+    "filename": "2022_王春晓_土地利用变化对鸟类栖息地连通性的影响——以鄂州市为例.pdf",
+    "position": "2022, 42(10):4197-4208.",
+    "sha256": "41f2a329d93142147575b8e8eba219ad9caaa4b23dfc96fe47a3b8d365c53f4c",
+    "pdf_pages": 12,
+    "han_body_chars": 3600,
+    "sentence_count": 80,
+    "heading_count": 22,
+    "section_sentence_counts": {
+      "methods": 39,
+      "results": 22,
+      "discussion": 12,
+      "conclusion": 8
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "Kappa"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p024",
+    "journal": "地理学报",
+    "year": 2022,
+    "title": "生态系统服务权衡与协同视角下的重点生态功能区保护特征",
+    "authors": "祝汉收, 翟俊, 侯鹏, 王桥, 陈妍, 金点点, 王永财",
+    "doi": "10.11821/dlxb202205016",
+    "filename": "2022_祝汉收_生态系统服务权衡与协同视角下的重点生态功能区保护特征.pdf",
+    "position": "地理学报. 2022, 77(5): 1275-1288.",
+    "sha256": "6f65240beedbb4f23cd1d640842d18a56e944a3cff0d83b2e626d456df8b076d",
+    "pdf_pages": 14,
+    "han_body_chars": 6389,
+    "sentence_count": 83,
+    "heading_count": 17,
+    "section_sentence_counts": {
+      "introduction": 12,
+      "methods": 18,
+      "results": 40,
+      "discussion": 13
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p025",
+    "journal": "生态学报",
+    "year": 2022,
+    "title": "长江流域产水功能对土地利用变化的响应及其驱动因素",
+    "authors": "胡文敏，杨睿瀚，贾冠宇，殷梓强，李毅，沈守云，李果",
+    "doi": "10.5846/stxb202108312454",
+    "filename": "2022_胡文敏_长江流域产水功能对土地利用变化的响应及其驱动因素.pdf",
+    "position": "2022, 42(17):7011-7027.",
+    "sha256": "c6e1533bb8462d4755183e126a164118b2784041a36f88e49dcbee9f51263060",
+    "pdf_pages": 17,
+    "han_body_chars": 5575,
+    "sentence_count": 66,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "methods": 26,
+      "results": 24,
+      "discussion": 16
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "Budyko",
+      "随机森林"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p026",
+    "journal": "地理学报",
+    "year": 2022,
+    "title": "黄河源区气候—植被—水文协同演变及成因辨析",
+    "authors": "莫兴国, 刘苏峡, 胡实",
+    "doi": "10.11821/dlxb202207011",
+    "filename": "2022_莫兴国_黄河源区气候—植被—水文协同演变及成因辨析.pdf",
+    "position": "地理学报. 2022, 77(7): 1730-1744.",
+    "sha256": "8dd2a7ae032e9bf98917b79d87cb1bd533711830bd58ab18e0e3e85f99902050",
+    "pdf_pages": 15,
+    "han_body_chars": 8223,
+    "sentence_count": 153,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "introduction": 29,
+      "methods": 32,
+      "results_discussion": 83,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "NSE",
+      "Mann-Kendall"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p027",
+    "journal": "地理学报",
+    "year": 2022,
+    "title": "滇东南喀斯特山区生态系统服务时空格局及功能分区",
+    "authors": "赵筱青, 石小倩, 李驭豪, 李益敏, 黄佩",
+    "doi": "10.11821/dlxb202203016",
+    "filename": "2022_赵筱青_滇东南喀斯特山区生态系统服务时空格局及功能分区.pdf",
+    "position": "地理学报. 2022, 77(3): 736-756.",
+    "sha256": "d80badb77fe30a7ddf7d15b8775bb7f7b933e2f9307e92c65bb503f143115709",
+    "pdf_pages": 21,
+    "han_body_chars": 10575,
+    "sentence_count": 147,
+    "heading_count": 25,
+    "section_sentence_counts": {
+      "introduction": 24,
+      "methods": 38,
+      "results": 50,
+      "discussion": 29,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "随机森林",
+      "自组织"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p028",
+    "journal": "生态学报",
+    "year": 2022,
+    "title": "基于FLUS与InVEST模型的北京市生态系统碳储量时空演变与预测",
+    "authors": "邵壮，陈然，赵晶，夏楚瑜，何颖婷，唐丰芸",
+    "doi": "10.5846/stxb202201100094",
+    "filename": "2022_邵壮_基于FLUS与InVEST模型的北京市生态系统碳储量时空演变与预测.pdf",
+    "position": "2022, 42(23):9456-9469.",
+    "sha256": "84cdeb3d41e1384c6088aac6aa6a42f62d13faab1f5937c8d0b585de649788eb",
+    "pdf_pages": 14,
+    "han_body_chars": 6291,
+    "sentence_count": 82,
+    "heading_count": 15,
+    "section_sentence_counts": {
+      "methods": 37,
+      "results": 36,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "FLUS",
+      "Kappa"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p029",
+    "journal": "生态学报",
+    "year": 2022,
+    "title": "基于土地利用变化的广东省生境质量时空演变特征",
+    "authors": "郑贱成，谢炳庚，游细斌",
+    "doi": "10.5846/stxb202107191938",
+    "filename": "2022_郑贱成_基于土地利用变化的广东省生境质量时空演变特征.pdf",
+    "position": "2022, 42(17):6997-7010.",
+    "sha256": "a84fff640cb37d55bf75b976a33845ff971ddbe264e2c9ae4b2ca2f1350d42b2",
+    "pdf_pages": 14,
+    "han_body_chars": 7030,
+    "sentence_count": 102,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "methods": 30,
+      "results": 31,
+      "discussion": 35,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "FLUS"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p030",
+    "journal": "生态学报",
+    "year": 2022,
+    "title": "基于InVEST模型的疏勒河上游产水量时空变化特征分析",
+    "authors": "魏培洁，吴明辉，贾映兰，高雅月，徐浩杰，刘章文，陈生云",
+    "doi": "10.5846/stxb202105011149",
+    "filename": "2022_魏培洁_基于InVEST模型的疏勒河上游产水量时空变化特征分析.pdf",
+    "position": "2022, 42(15):6418-6429.",
+    "sha256": "5395c8b47ab27c578f8741eee0c789e6da17bffe316bb0ab88752b08c51a7cb9",
+    "pdf_pages": 12,
+    "han_body_chars": 4435,
+    "sentence_count": 91,
+    "heading_count": 15,
+    "section_sentence_counts": {
+      "methods": 34,
+      "results": 23,
+      "discussion": 28,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "Budyko"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p031",
+    "journal": "生态学报",
+    "year": 2023,
+    "title": "基于FLUS-InVEST模型的京津冀多情景土地利用变化模拟及其对生态系统服务功能的影响",
+    "authors": "任胤铭，刘小平，许晓聪，孙嵩松，赵林峰，梁迅，曾莉",
+    "doi": "10.5846/stxb202201280269",
+    "filename": "2023_任胤铭_基于FLUS-InVEST模型的京津冀多情景土地利用变化模拟及其对生态系统服务功能的影响.pdf",
+    "position": "2023, 43(11):4473-4487.",
+    "sha256": "5243e8c33275a77e6d6768ed39e82b814c046afe9015b7eab7d45a6339c6274e",
+    "pdf_pages": 15,
+    "han_body_chars": 7006,
+    "sentence_count": 127,
+    "heading_count": 22,
+    "section_sentence_counts": {
+      "methods": 47,
+      "results": 53,
+      "discussion": 16,
+      "conclusion": 12
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "FLUS"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p032",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "广东省土地利用及其变化和林业碳核算研究",
+    "authors": "吕国玮, 周建春, 蔡玉梅, 孟超, 李升发, 陈伟莲",
+    "doi": "10.11821/dlxb202303009",
+    "filename": "2023_吕国玮_广东省土地利用及其变化和林业碳核算研究.pdf",
+    "position": "地理学报. 2023, 78(3): 640-657.",
+    "sha256": "c6580705faa6231d5172073d1fc3ed0861846f30cd20f7f983f1fff146799078",
+    "pdf_pages": 18,
+    "han_body_chars": 4325,
+    "sentence_count": 71,
+    "heading_count": 14,
+    "section_sentence_counts": {
+      "introduction": 23,
+      "methods": 14,
+      "results": 14,
+      "discussion": 14,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p033",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "中国水文地理研究的回顾与展望",
+    "authors": "周成虎, 于静洁",
+    "doi": "10.11821/dlxb202307007",
+    "filename": "2023_周成虎_中国水文地理研究的回顾与展望.pdf",
+    "position": "地理学报. 2023, 78(7): 1659-1665.",
+    "sha256": "d0fb6df6448f71c855ea7fc56082dfcd51a80dd488bcc87337811d8f8d7547ad",
+    "pdf_pages": 7,
+    "han_body_chars": 5012,
+    "sentence_count": 55,
+    "heading_count": 0,
+    "section_sentence_counts": {},
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p034",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "壤中暴流水文机理与致灾效应",
+    "authors": "崔鹏, 张国涛, 张晨笛",
+    "doi": "10.11821/dlxb202307005",
+    "filename": "2023_崔鹏_壤中暴流水文机理与致灾效应.pdf",
+    "position": "地理学报. 2023, 78(7): 1627-1640.",
+    "sha256": "370a8718790f39bb6d6461eb99b8c0e97647f92417318a7dbcf725060522264d",
+    "pdf_pages": 14,
+    "han_body_chars": 7702,
+    "sentence_count": 86,
+    "heading_count": 14,
+    "section_sentence_counts": {
+      "introduction": 7,
+      "body_other": 77,
+      "conclusion": 2
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p035",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "郑州“7·20”暴雨洪涝几个水文问题的讨论",
+    "authors": "张建云, 舒章康, 王鸿杰, 李文鑫, 金君良",
+    "doi": "10.11821/dlxb202307004",
+    "filename": "2023_张建云_郑州“7·20”暴雨洪涝几个水文问题的讨论.pdf",
+    "position": "地理学报. 2023, 78(7): 1618-1626.",
+    "sha256": "17a95afe0b320eaebebb2a69b9e70c308e5ee952855a5d1707e8918ba0bbd8b1",
+    "pdf_pages": 9,
+    "han_body_chars": 5065,
+    "sentence_count": 94,
+    "heading_count": 12,
+    "section_sentence_counts": {
+      "introduction": 14,
+      "results": 30,
+      "body_other": 43,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p036",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "遥感数据产品率定水文模型的潜力研究",
+    "authors": "张永强, 黄琦, 刘昌明, 杨永辉",
+    "doi": "10.11821/dlxb202307009",
+    "filename": "2023_张永强_遥感数据产品率定水文模型的潜力研究.pdf",
+    "position": "地理学报. 2023, 78(7): 1677-1690.",
+    "sha256": "49d242bb1025b1ae21877f4d6a0fafcb846d03579118d2382c42ff7080f77cf0",
+    "pdf_pages": 14,
+    "han_body_chars": 6708,
+    "sentence_count": 119,
+    "heading_count": 13,
+    "section_sentence_counts": {
+      "introduction": 18,
+      "methods": 49,
+      "results": 35,
+      "conclusion": 18
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "Budyko"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p037",
+    "journal": "生态学报",
+    "year": 2023,
+    "title": "基于土地利用变化的东海区大陆海岸带生境质量时空演变研究",
+    "authors": "张海涛，李加林，田鹏，王中义，沈杏雯",
+    "doi": "10.5846/stxb202103150695",
+    "filename": "2023_张海涛_基于土地利用变化的东海区大陆海岸带生境质量时空演变研究.pdf",
+    "position": "2023, 43(3):937-947.",
+    "sha256": "66414740c1f35278fe544f8616db3425676462f6ee03e460ff869665a1634932",
+    "pdf_pages": 11,
+    "han_body_chars": 4218,
+    "sentence_count": 60,
+    "heading_count": 14,
+    "section_sentence_counts": {
+      "methods": 23,
+      "results": 21,
+      "discussion": 16
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "地理探测器"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p038",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "基于生态功能区的河北省生态系统服务权衡与协同分析",
+    "authors": "李倩茹, 贾彦龙, 王慧军, 王哲",
+    "doi": "10.11821/dlxb202311012",
+    "filename": "2023_李倩茹_基于生态功能区的河北省生态系统服务权衡与协同分析.pdf",
+    "position": "地理学报. 2023, 78(11): 2833-2849.",
+    "sha256": "9d3f62a449c11a729476e41afe4d6e3a80a7189e4343c997fc111cfab9459edd",
+    "pdf_pages": 17,
+    "han_body_chars": 7469,
+    "sentence_count": 101,
+    "heading_count": 17,
+    "section_sentence_counts": {
+      "introduction": 17,
+      "methods": 33,
+      "results": 27,
+      "discussion": 24
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "地理探测器"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p039",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "遥感水文模型研究综述",
+    "authors": "杨胜天, 鱼京善, 娄和震, 孙文超, 赵长森, 王雪蕾, 宋文龙, 蔡明勇, 代韵萌",
+    "doi": "10.11821/dlxb202307010",
+    "filename": "2023_杨胜天_遥感水文模型研究综述.pdf",
+    "position": "地理学报. 2023, 78(7): 1691-1702.",
+    "sha256": "97a822fbfe950ccbb189a8e5c34bef408c39aabed7b999122dfcc0f40a99de47",
+    "pdf_pages": 12,
+    "han_body_chars": 6499,
+    "sentence_count": 74,
+    "heading_count": 13,
+    "section_sentence_counts": {
+      "introduction": 5,
+      "body_other": 59,
+      "results": 5,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "SWAT"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p040",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "黄河中游生态水文模型及洪旱灾害风险评估",
+    "authors": "汤秋鸿, 徐锡蒙, 贺莉, 彭守璋, 胡亚伟, 靳晓辉, 樊玉苗, 祝欣荣, 邓浩鑫, 杨淋, 王志慧",
+    "doi": "10.11821/dlxb202307008",
+    "filename": "2023_汤秋鸿_黄河中游生态水文模型及洪旱灾害风险评估.pdf",
+    "position": "地理学报. 2023, 78(7): 1666-1676.",
+    "sha256": "80b6c67d9cb1b14005f7bc60f5742fb1935a521f3ce1557fa4c0f4a9f0941b54",
+    "pdf_pages": 11,
+    "han_body_chars": 6725,
+    "sentence_count": 88,
+    "heading_count": 6,
+    "section_sentence_counts": {
+      "introduction": 12,
+      "body_other": 76
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "Budyko"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p041",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "中国海外耕地投资规模与地缘经济的耦合协调研究",
+    "authors": "潘子纯, 马林燕, 朱玉春",
+    "doi": "10.11821/dlxb202309014",
+    "filename": "2023_潘子纯_中国海外耕地投资规模与地缘经济的耦合协调研究.pdf",
+    "position": "地理学报. 2023, 78(9): 2338-2357.",
+    "sha256": "eca1dca6b7e1859b8059f51908e052bcfad5ae35a4bfe6bd8f55a6144cfdfa5b",
+    "pdf_pages": 20,
+    "han_body_chars": 12908,
+    "sentence_count": 190,
+    "heading_count": 25,
+    "section_sentence_counts": {
+      "introduction": 25,
+      "body_other": 44,
+      "methods": 32,
+      "results": 76,
+      "discussion": 14
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "地理探测器",
+      "耦合协调"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p042",
+    "journal": "生态学报",
+    "year": 2023,
+    "title": "滇池流域水文生态系统服务权衡与协同时空异质性及其归因分析",
+    "authors": "王启名，杨昆，李立晓，朱彦辉，樊贤",
+    "doi": "10.5846/stxb202205241459",
+    "filename": "2023_王启名_滇池流域水文生态系统服务权衡与协同时空异质性及其归因分析.pdf",
+    "position": "2023, 43(12):4876-4891.",
+    "sha256": "58a73d367c73c6200c5e604631b14f570b55acdf92576da3a3d5ef11837c1fe4",
+    "pdf_pages": 16,
+    "han_body_chars": 7337,
+    "sentence_count": 97,
+    "heading_count": 18,
+    "section_sentence_counts": {
+      "methods": 34,
+      "results": 34,
+      "discussion": 23,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p043",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "快速升温下的北极径流变化及其驱动机制综述",
+    "authors": "王平, 黄其威, 刘诗奇, 于静洁, 张一驰, 王田野, 白冰, POZDNIAKOV Sergey P, FROLOVA Natalia L, 刘昌明",
+    "doi": "10.11821/dlxb202311005",
+    "filename": "2023_王平_快速升温下的北极径流变化及其驱动机制综述.pdf",
+    "position": "地理学报. 2023, 78(11): 2718-2734.",
+    "sha256": "576beb4f8e5bc97b74eb7cf899be99fbbddce1586df89b84aec10d5398135341",
+    "pdf_pages": 17,
+    "han_body_chars": 5183,
+    "sentence_count": 117,
+    "heading_count": 10,
+    "section_sentence_counts": {
+      "introduction": 10,
+      "body_other": 107
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p044",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "基于水化学及径流组成的中国西北内陆河流域水资源风险评估",
+    "authors": "王诗语, 孙从建, 陈伟, 张鑫, 周思捷",
+    "doi": "10.11821/dlxb202311008",
+    "filename": "2023_王诗语_基于水化学及径流组成的中国西北内陆河流域水资源风险评估.pdf",
+    "position": "地理学报. 2023, 78(11): 2763-2780.",
+    "sha256": "ae0f7e5122bf8115fc2f03d64e4a243ee4103675ba5765f52a4fbc0ebfa10b15",
+    "pdf_pages": 18,
+    "han_body_chars": 7031,
+    "sentence_count": 116,
+    "heading_count": 23,
+    "section_sentence_counts": {
+      "introduction": 14,
+      "methods": 17,
+      "results": 38,
+      "discussion": 38,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p045",
+    "journal": "生态学报",
+    "year": 2023,
+    "title": "喀斯特地区碳储量对土地利用模式的响应——以南北盘江流域为例",
+    "authors": "罗丹，周忠发，陈全，张露，吴岚，伍堂银",
+    "doi": "10.5846/stxb202208192384",
+    "filename": "2023_罗丹_喀斯特地区碳储量对土地利用模式的响应——以南北盘江流域为例.pdf",
+    "position": "2023, 43(9):3500-3516.",
+    "sha256": "f091985e5cbb5cd3c67859b2e2f3a0a232061fa9e721f0881847d2e4a2ec22d4",
+    "pdf_pages": 17,
+    "han_body_chars": 5263,
+    "sentence_count": 98,
+    "heading_count": 21,
+    "section_sentence_counts": {
+      "methods": 33,
+      "results": 44,
+      "discussion": 23
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "FLUS",
+      "Kappa"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p046",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "中国国际河流水文地理研究进展",
+    "authors": "罗贤, 李运刚, 季漩, 何大明",
+    "doi": "10.11821/dlxb202307011",
+    "filename": "2023_罗贤_中国国际河流水文地理研究进展.pdf",
+    "position": "地理学报. 2023, 78(7): 1703-1717.",
+    "sha256": "45ab9431a8d16cb9ffa6aa044cdb09a7dcfad0a92072625c230b4aa22e2c0eff",
+    "pdf_pages": 15,
+    "han_body_chars": 8933,
+    "sentence_count": 143,
+    "heading_count": 13,
+    "section_sentence_counts": {
+      "introduction": 16,
+      "body_other": 121,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p047",
+    "journal": "地理学报",
+    "year": 2023,
+    "title": "水源涵养功能概念的生态和水文视角辨析",
+    "authors": "高红凯, 刘俊国, 高光耀, 夏军",
+    "doi": "10.11821/dlxb202301009",
+    "filename": "2023_高红凯_水源涵养功能概念的生态和水文视角辨析.pdf",
+    "position": "地理学报. 2023, 78(1): 139-148.",
+    "sha256": "693506a02366cf6ebaff885869327a7fa0f6610bf7c266c7f923510c5c106d26",
+    "pdf_pages": 10,
+    "han_body_chars": 6836,
+    "sentence_count": 134,
+    "heading_count": 13,
+    "section_sentence_counts": {
+      "introduction": 24,
+      "body_other": 102,
+      "conclusion": 8
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "自组织"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p048",
+    "journal": "生态学报",
+    "year": 2023,
+    "title": "喀斯特多山城市生境质量对土地利用变化的时空响应——以贵阳市为例",
+    "authors": "魏文飞，包玉，王志泰，陈信同，孙玉真，曾慕琳，莫亚国",
+    "doi": "10.5846/stxb202207242116",
+    "filename": "2023_魏文飞_喀斯特多山城市生境质量对土地利用变化的时空响应——以贵阳市为例.pdf",
+    "position": "2023, 43(10):3920-3935.",
+    "sha256": "52c060f039101ef663ea980eae1aa48d171a28a4e7a96a3e37800e8228f2fdec",
+    "pdf_pages": 16,
+    "han_body_chars": 6764,
+    "sentence_count": 140,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "methods": 49,
+      "results": 57,
+      "discussion": 27,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "地理加权回归"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p049",
+    "journal": "地理学报",
+    "year": 2024,
+    "title": "气候变化对北极勒拿河流域年和季节径流的影响",
+    "authors": "吕韶燕, 唐寅, 汤秋鸿, 李海明, 肖瀚, 谢定昇",
+    "doi": "10.11821/dlxb202411008",
+    "filename": "2024_吕韶燕_气候变化对北极勒拿河流域年和季节径流的影响.pdf",
+    "position": "地理学报. 2024, 79(11): 2811-2829.",
+    "sha256": "4d4b4a9c33e20eca88238d97579689b3ac1cfe6f766532b3c8dc909b6a787bc9",
+    "pdf_pages": 19,
+    "han_body_chars": 8161,
+    "sentence_count": 126,
+    "heading_count": 24,
+    "section_sentence_counts": {
+      "introduction": 25,
+      "methods": 34,
+      "results_discussion": 34,
+      "discussion": 30,
+      "conclusion": 4
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "Budyko",
+      "NSE",
+      "Mann-Kendall"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p050",
+    "journal": "地理学报",
+    "year": 2024,
+    "title": "生态系统服务流概念内涵与量化方法",
+    "authors": "夏沛, 彭建, 徐子涵, 顾恬玮, 王佳斌",
+    "doi": "10.11821/dlxb202403003",
+    "filename": "2024_夏沛_生态系统服务流概念内涵与量化方法.pdf",
+    "position": "地理学报. 2024, 79(3): 584-599.",
+    "sha256": "a49d64ca62c517b51e27f6788e608ce447b43a251162d9ad001f90b49f37d89c",
+    "pdf_pages": 16,
+    "han_body_chars": 7075,
+    "sentence_count": 126,
+    "heading_count": 14,
+    "section_sentence_counts": {
+      "introduction": 19,
+      "body_other": 101,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p051",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "基于生态系统服务的生态安全格局构建与生态韧性评估——以长株潭城市群为例",
+    "authors": "孙梓渊，王赛鸽，陈彬",
+    "doi": "10.20103/j.stxb.202307131507",
+    "filename": "2024_孙梓渊_基于生态系统服务的生态安全格局构建与生态韧性评估——以长株潭城市群为例.pdf",
+    "position": "2024, 44(11):4650-4661.",
+    "sha256": "60030c91df7fe68af754aedcf8cd234cc4524931738d9281ef41a395e4c78f9f",
+    "pdf_pages": 12,
+    "han_body_chars": 5236,
+    "sentence_count": 83,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "methods": 23,
+      "results": 28,
+      "discussion": 24,
+      "conclusion": 8
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p052",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "三峡库区小流域景观格局变化洪枯径流效应及归因分析",
+    "authors": "尹思危，王跃峰，周琨鸿，刘帆，雷超桂",
+    "doi": "10.20103/j.stxb.202401300273",
+    "filename": "2024_尹思危_三峡库区小流域景观格局变化洪枯径流效应及归因分析.pdf",
+    "position": "2024, 44(18):7962-7976.",
+    "sha256": "6373689a6d2382d43c0491a7e5029e46c5ecea70cd7772dd8ed5b914f314319a",
+    "pdf_pages": 15,
+    "han_body_chars": 5117,
+    "sentence_count": 86,
+    "heading_count": 22,
+    "section_sentence_counts": {
+      "methods": 27,
+      "results": 36,
+      "discussion": 17,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "SWAT",
+      "随机森林"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p053",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "长三角城市群城市洪涝韧性与生态系统服务的耦合协调关系",
+    "authors": "嵇娟，陈军飞，丁童慧，李远航",
+    "doi": "10.20103/j.stxb.202304070696",
+    "filename": "2024_嵇娟_长三角城市群城市洪涝韧性与生态系统服务的耦合协调关系.pdf",
+    "position": "2024, 44(7):2772-2785.",
+    "sha256": "795e45e866b4f1eef96a450833e653bc45bb498df60d4544a70304f86ac85e81",
+    "pdf_pages": 14,
+    "han_body_chars": 6826,
+    "sentence_count": 112,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "methods": 37,
+      "results": 42,
+      "discussion": 23,
+      "conclusion": 10
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "耦合协调"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p054",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "基于自组织映射神经网络的淮河流域生态系统服务簇时空变化特征",
+    "authors": "常耀文，吴迪，李欢，刘霞，王蕴鹏，郭家瑜",
+    "doi": "10.20103/j.stxb.202311232560",
+    "filename": "2024_常耀文_基于自组织映射神经网络的淮河流域生态系统服务簇时空变化特征.pdf",
+    "position": "2024, 44(11):4544-4557.",
+    "sha256": "2680eb2dfe9b55a21cb84a39b386867a4f58ade0f24deafe7d9c86f07e4cb3f3",
+    "pdf_pages": 14,
+    "han_body_chars": 4731,
+    "sentence_count": 84,
+    "heading_count": 19,
+    "section_sentence_counts": {
+      "methods": 26,
+      "results": 24,
+      "discussion": 25,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "Budyko",
+      "自组织"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p055",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "黄河上游流域生态系统服务变化及其权衡协同关系",
+    "authors": "庞彩艳，文琦，丁金梅，吴昕燕，施琳娜",
+    "doi": "10.20103/j.stxb.202306281376",
+    "filename": "2024_庞彩艳_黄河上游流域生态系统服务变化及其权衡协同关系.pdf",
+    "position": "2024, 44(12):5003-5013.",
+    "sha256": "89a499f0fa3254cf4b381a7199bfa06ec0177aec993842bec877ac81239be57f",
+    "pdf_pages": 11,
+    "han_body_chars": 4299,
+    "sentence_count": 50,
+    "heading_count": 22,
+    "section_sentence_counts": {
+      "methods": 12,
+      "results": 23,
+      "discussion": 15
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p056",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "基于土地利用变化的祁连山地区生态系统服务价值演化分析",
+    "authors": "张百婷，李宗省，冯起，陆志翔，张百娟，程文举",
+    "doi": "10.20103/j.stxb.202211023130",
+    "filename": "2024_张百婷_基于土地利用变化的祁连山地区生态系统服务价值演化分析.pdf",
+    "position": "2024, 44(10):4187-4202.",
+    "sha256": "038c62493c6570f089e93cf9a924676350d22576e2d78add2747a47262ad16e2",
+    "pdf_pages": 16,
+    "han_body_chars": 5767,
+    "sentence_count": 108,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "methods": 27,
+      "results": 45,
+      "discussion": 28,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p057",
+    "journal": "地理学报",
+    "year": 2024,
+    "title": "生态风险与生态系统健康对生态系统服务的影响",
+    "authors": "朱青, 蔡永立",
+    "doi": "10.11821/dlxb202405013",
+    "filename": "2024_朱青_生态风险与生态系统健康对生态系统服务的影响.pdf",
+    "position": "地理学报. 2024, 79(5): 1303-1317.",
+    "sha256": "c7842bfc84a8fdc8070c67fd5f889fe49f26c3dcb1dd30fb1d9d6b5bcaeb7300",
+    "pdf_pages": 15,
+    "han_body_chars": 7495,
+    "sentence_count": 122,
+    "heading_count": 21,
+    "section_sentence_counts": {
+      "introduction": 2,
+      "body_other": 31,
+      "methods": 17,
+      "results": 29,
+      "discussion": 36,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p058",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "国家公园生态系统服务与农牧户福祉的时空耦合分析——以祁连山国家公园为例",
+    "authors": "李佳桐，唐海萍，邝佛缘",
+    "doi": "10.20103/j.stxb.202310072154",
+    "filename": "2024_李佳桐_国家公园生态系统服务与农牧户福祉的时空耦合分析——以祁连山国家公园为例.pdf",
+    "position": "2024, 44(15):6527-6539.",
+    "sha256": "e932fbe67ac61b00b6ddbcba1613b015809e94cb21610121023779c70e7a1203",
+    "pdf_pages": 13,
+    "han_body_chars": 6368,
+    "sentence_count": 104,
+    "heading_count": 12,
+    "section_sentence_counts": {
+      "methods": 52,
+      "results": 17,
+      "discussion": 29,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "耦合协调"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p059",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "基于分布式水文模型的水源涵养不同功能评估方法——以渭河涵养区为例",
+    "authors": "王东东，贾仰文，牛存稳，岁姚炳，燕翔",
+    "doi": "10.20103/j.stxb.202304120737",
+    "filename": "2024_王东东_基于分布式水文模型的水源涵养不同功能评估方法——以渭河涵养区为例.pdf",
+    "position": "2024, 44(10):4342-4352.",
+    "sha256": "27df34e8b5ab2c3c94fd4a7bd04107299991be885116c0c0413b491f8918ef60",
+    "pdf_pages": 11,
+    "han_body_chars": 4379,
+    "sentence_count": 63,
+    "heading_count": 18,
+    "section_sentence_counts": {
+      "methods": 20,
+      "results": 16,
+      "discussion": 19,
+      "conclusion": 8
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "SWAT",
+      "Budyko"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p060",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "珠三角地区至2050年土地利用变化对生物多样性的影响",
+    "authors": "王鸣雷，邱思妍，史文娇",
+    "doi": "10.20103/j.stxb.202312182744",
+    "filename": "2024_王鸣雷_珠三角地区至2050年土地利用变化对生物多样性的影响.pdf",
+    "position": "2024, 44(16):7183-7197.",
+    "sha256": "7d35536baf51a00543f341176497f0b33afa50e4aa08b77e38912474cefffbf1",
+    "pdf_pages": 15,
+    "han_body_chars": 6789,
+    "sentence_count": 138,
+    "heading_count": 25,
+    "section_sentence_counts": {
+      "methods": 31,
+      "results": 40,
+      "discussion": 55,
+      "conclusion": 13
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "FLUS"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p061",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "1987-2020年昕水河流域土地利用变化对碳储量的影响",
+    "authors": "谢晨新，张守红，李华林，章孙逊，宋卓远，刘晔，张馨予，许行",
+    "doi": "10.20103/j.stxb.202309041899",
+    "filename": "2024_谢晨新_1987-2020年昕水河流域土地利用变化对碳储量的影响.pdf",
+    "position": "2024, 44(18):8021-8032.",
+    "sha256": "18f76c5ebc34ee60ac36a609184ae4ca0f90b98fba75c4fac6e1e4e3604c81cb",
+    "pdf_pages": 12,
+    "han_body_chars": 2952,
+    "sentence_count": 65,
+    "heading_count": 17,
+    "section_sentence_counts": {
+      "methods": 17,
+      "results": 25,
+      "discussion": 18,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p062",
+    "journal": "地理学报",
+    "year": 2024,
+    "title": "基于水分—能量分配框架的径流变异分解方法",
+    "authors": "陈兴荣, 刘智勇, 陈晓宏, 林凯荣, 赵铜铁钢, 董玮捷, 缪贝儿, 颜宇",
+    "doi": "10.11821/dlxb202407002",
+    "filename": "2024_陈兴荣_基于水分—能量分配框架的径流变异分解方法.pdf",
+    "position": "地理学报. 2024, 79(7): 1647-1660.",
+    "sha256": "5d1825ff06a0da3b597e9271a446aa6d99714d7ae00af6ee545a77e0995249f1",
+    "pdf_pages": 14,
+    "han_body_chars": 5307,
+    "sentence_count": 85,
+    "heading_count": 14,
+    "section_sentence_counts": {
+      "introduction": 7,
+      "methods": 21,
+      "results_discussion": 48,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "Budyko"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p063",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "黄土高原城镇化与生态系统服务脱钩关系",
+    "authors": "韩磊，高毅丰，常钰卿，曹鑫鑫，杨梅丽，李亚北，刘钊，康宏亮",
+    "doi": "10.20103/j.stxb.202310142228",
+    "filename": "2024_韩磊_黄土高原城镇化与生态系统服务脱钩关系.pdf",
+    "position": "2024, 44(20):9108-9121.",
+    "sha256": "3401e450fc2096aead18f63efc7a63787fa43546ea1e12e10bb8e28b6db3c09f",
+    "pdf_pages": 14,
+    "han_body_chars": 5461,
+    "sentence_count": 48,
+    "heading_count": 19,
+    "section_sentence_counts": {
+      "methods": 17,
+      "results": 14,
+      "discussion": 13,
+      "conclusion": 5
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "随机森林",
+      "耦合协调"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p064",
+    "journal": "地理学报",
+    "year": 2024,
+    "title": "生态系统服务视角下的社会—生态系统耦合模拟研究进展",
+    "authors": "高阳, 沈振, 张中浩, 熊巨华",
+    "doi": "10.11821/dlxb202401009",
+    "filename": "2024_高阳_生态系统服务视角下的社会—生态系统耦合模拟研究进展.pdf",
+    "position": "地理学报. 2024, 79(1): 134-146.",
+    "sha256": "ef1f39a0b2c52364ab416600adf80d5276174907072cf4de7b86ed445bf50181",
+    "pdf_pages": 13,
+    "han_body_chars": 8269,
+    "sentence_count": 125,
+    "heading_count": 14,
+    "section_sentence_counts": {
+      "introduction": 16,
+      "body_other": 109
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p065",
+    "journal": "生态学报",
+    "year": 2024,
+    "title": "基于InVEST-图论模型的西双版纳州亚洲象生境网络评价",
+    "authors": "魏雯，唐安琪",
+    "doi": "10.20103/j.stxb.202308091718",
+    "filename": "2024_魏雯_基于InVEST-图论模型的西双版纳州亚洲象生境网络评价.pdf",
+    "position": "2024, 44(12):5206-5218.",
+    "sha256": "94714efbf478d0f6a7c934b0655906c0902a124a9b4b28b105f42a5d530fe1a6",
+    "pdf_pages": 13,
+    "han_body_chars": 4731,
+    "sentence_count": 68,
+    "heading_count": 19,
+    "section_sentence_counts": {
+      "methods": 21,
+      "results": 22,
+      "conclusion": 25
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p066",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "基于径流场观测的中国森林生态系统地表径流特征",
+    "authors": "任雲雲，邓雅丽，崔自杰，李雪，刘效东",
+    "doi": "10.20103/j.stxb.202412042988",
+    "filename": "2025_任雲雲_基于径流场观测的中国森林生态系统地表径流特征.pdf",
+    "position": "2025, 45(15):7527-7538.",
+    "sha256": "e897f4d68bae6038cbe97bea2f88e8c6d5e44ac961a8d29329fc90cdaea32fd4",
+    "pdf_pages": 12,
+    "han_body_chars": 4767,
+    "sentence_count": 66,
+    "heading_count": 11,
+    "section_sentence_counts": {
+      "methods": 14,
+      "results": 17,
+      "discussion": 28,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p067",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "滇中地区综合生态系统服务与影响因素响应阈值的尺度效应",
+    "authors": "何苏玲，王金亮，邓云程，奎梦云，沙晋明，李小梅",
+    "doi": "10.20103/j.stxb.202409102182",
+    "filename": "2025_何苏玲_滇中地区综合生态系统服务与影响因素响应阈值的尺度效应.pdf",
+    "position": "2025, 45(9):4184-4199.",
+    "sha256": "914a2810c485fbc8b26834ba85e8adde8454491f1eef8f27a3a9a8a9a061a746",
+    "pdf_pages": 16,
+    "han_body_chars": 6429,
+    "sentence_count": 168,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "methods": 45,
+      "results": 28,
+      "discussion": 90,
+      "conclusion": 5
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "随机森林",
+      "约束线"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p068",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "江西省生态系统服务对城镇化的响应模拟",
+    "authors": "何蕾，李梦可，王诗雅，蒙继英",
+    "doi": "10.20103/j.stxb.202409082161",
+    "filename": "2025_何蕾_江西省生态系统服务对城镇化的响应模拟.pdf",
+    "position": "2025, 45(17):8716-8728.",
+    "sha256": "fd456d6c0b034e91d0d0d7b15eb99d59672e6c5fe66136ca124dcb99bc7b6695",
+    "pdf_pages": 13,
+    "han_body_chars": 6355,
+    "sentence_count": 94,
+    "heading_count": 26,
+    "section_sentence_counts": {
+      "methods": 28,
+      "results": 39,
+      "discussion": 27
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "Kappa"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p069",
+    "journal": "地理学报",
+    "year": 2025,
+    "title": "新石器—青铜时代荥阳盆地水文地貌对农业发展的影响",
+    "authors": "刘畅, 李开封",
+    "doi": "10.11821/dlxb202509012",
+    "filename": "2025_刘畅_新石器—青铜时代荥阳盆地水文地貌对农业发展的影响.pdf",
+    "position": "地理学报. 2025, 80(9): 2468-2485.",
+    "sha256": "a44975e9b5ab01e4752edb9bdcb9050c56ca3d3103116d5323c5780e05bf2dbe",
+    "pdf_pages": 18,
+    "han_body_chars": 5019,
+    "sentence_count": 92,
+    "heading_count": 19,
+    "section_sentence_counts": {
+      "introduction": 25,
+      "methods": 19,
+      "results": 13,
+      "discussion": 31,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p070",
+    "journal": "地理学报",
+    "year": 2025,
+    "title": "气候变化和水库运行对长江流域水文情势的影响预估",
+    "authors": "刘罕奇, 王婷婷, 冯瑶, 王红, 孙福宝, 刘文彬",
+    "doi": "10.11821/dlxb202501004",
+    "filename": "2025_刘罕奇_气候变化和水库运行对长江流域水文情势的影响预估.pdf",
+    "position": "地理学报. 2025, 80(1): 41-60.",
+    "sha256": "f4634ddd8f958bbe8fe4eefbe7e609aa627e91bdb603937c5d4d95a9b08ed310",
+    "pdf_pages": 20,
+    "han_body_chars": 5613,
+    "sentence_count": 107,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "introduction": 15,
+      "methods": 25,
+      "results_discussion": 60,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "SWAT",
+      "NSE"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p071",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "北京市生态系统服务价值时空变化及其驱动力",
+    "authors": "张剑飞，阳文锐，李晶晶，沈守云，马力，陈亮",
+    "doi": "10.20103/j.stxb.202312312885",
+    "filename": "2025_张剑飞_北京市生态系统服务价值时空变化及其驱动力.pdf",
+    "position": "2025, 45(1):306-318.",
+    "sha256": "2373742e83204b9463ceb407f71c5ed830f0b9412dc6ea2ee8fe7b0c047e9b6d",
+    "pdf_pages": 13,
+    "han_body_chars": 6727,
+    "sentence_count": 123,
+    "heading_count": 19,
+    "section_sentence_counts": {
+      "methods": 39,
+      "results": 41,
+      "discussion": 43
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "地理探测器"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p072",
+    "journal": "地理学报",
+    "year": 2025,
+    "title": "观测不确定性影响下黄河水源涵养区径流情势变化特征",
+    "authors": "张永勇, 韩冰, 曹灿, 翟晓燕",
+    "doi": "10.11821/dlxb202501003",
+    "filename": "2025_张永勇_观测不确定性影响下黄河水源涵养区径流情势变化特征.pdf",
+    "position": "地理学报. 2025, 80(1): 28-40.",
+    "sha256": "70062a4f1ba293a19b466622ee54acc6606a71bf68fdd7f31cd86904541c82fb",
+    "pdf_pages": 13,
+    "han_body_chars": 5836,
+    "sentence_count": 96,
+    "heading_count": 13,
+    "section_sentence_counts": {
+      "introduction": 15,
+      "methods": 27,
+      "results": 35,
+      "discussion": 13,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "Mann-Kendall"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p073",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "基于InVEST模型的黄河流域水源涵养时空演变及其影响因素",
+    "authors": "张秀霞，杜衡，李旺平，吴晓东，尉文博，王牛，万容圻，边雁君，窦爱霞，王中央",
+    "doi": "10.20103/j.stxb.202503060487",
+    "filename": "2025_张秀霞_基于InVEST模型的黄河流域水源涵养时空演变及其影响因素.pdf",
+    "position": "2025, 45(24):12324-12336.",
+    "sha256": "6ffa24957b03018e0bfa5bd7b60afaac7eeac568c274906e843ab1c7c561fcde",
+    "pdf_pages": 13,
+    "han_body_chars": 6651,
+    "sentence_count": 107,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "methods": 13,
+      "results": 57,
+      "discussion": 27,
+      "conclusion": 10
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "地理探测器",
+      "结构方程"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p074",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "基于PLUS-InVEST模型的中国多情景土地利用变化模拟及其对生态系统服务功能的影响",
+    "authors": "张贤，刘彦随，王伟，薛岩欣，李博远，金淑贞",
+    "doi": "10.20103/j.stxb.202501180162",
+    "filename": "2025_张贤_基于PLUS-InVEST模型的中国多情景土地利用变化模拟及其对生态系统服务功能的影响.pdf",
+    "position": "2025, 45(19):9577-9593.",
+    "sha256": "bc98a94b4f378896dfe8f17b467e9a205e93abbc1961280e48469cb4e0f08c36",
+    "pdf_pages": 17,
+    "han_body_chars": 8569,
+    "sentence_count": 141,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "methods": 45,
+      "results": 65,
+      "discussion": 21,
+      "conclusion": 10
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "PLUS",
+      "Kappa"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p075",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "京杭大运河江苏段生态系统服务与经济发展的耦合协调研究",
+    "authors": "徐彩瑶，曹露丹，汪婧宇，孔凡斌，王宁",
+    "doi": "10.20103/j.stxb.202402250391",
+    "filename": "2025_徐彩瑶_京杭大运河江苏段生态系统服务与经济发展的耦合协调研究.pdf",
+    "position": "2025, 45(3):1137-1153.",
+    "sha256": "f1dd5e488e082562dd5e8a9675a5ee8de4122296f2b5bfd77617b7ab0132ebe5",
+    "pdf_pages": 17,
+    "han_body_chars": 6583,
+    "sentence_count": 93,
+    "heading_count": 18,
+    "section_sentence_counts": {
+      "methods": 34,
+      "results": 38,
+      "conclusion": 21
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "耦合协调"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p076",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "城市及周边土地利用时空演变及其对生态系统服务权衡协同的影响机制——以苏州市为例",
+    "authors": "施荟文，田雅丝，陈家乐，陆雨婷，钱万溪",
+    "doi": "10.20103/j.stxb.202409292383",
+    "filename": "2025_施荟文_城市及周边土地利用时空演变及其对生态系统服务权衡协同的影响机制——以苏州市为例.pdf",
+    "position": "2025, 45(15):7386-7400.",
+    "sha256": "e57abd8deb1b5e8b773ace5097bfe43b35fdcbb20132fff2c5661cd8bf9607a9",
+    "pdf_pages": 15,
+    "han_body_chars": 7009,
+    "sentence_count": 89,
+    "heading_count": 11,
+    "section_sentence_counts": {
+      "methods": 38,
+      "results": 25,
+      "discussion": 20,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p077",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "1963-2020年蒙古锡林河流域极端气候及其对水文干旱的影响",
+    "authors": "曲芷程，黄绍普，刘司博，王立新，刘东伟",
+    "doi": "10.20103/j.stxb.202410102456",
+    "filename": "2025_曲芷程_1963-2020年蒙古锡林河流域极端气候及其对水文干旱的影响.pdf",
+    "position": "2025, 45(11):5386-5397.",
+    "sha256": "e6f778f38e08168d4f3f96b62e8f88e15337a82e80643bb72315e9f52ce9de1e",
+    "pdf_pages": 12,
+    "han_body_chars": 3594,
+    "sentence_count": 88,
+    "heading_count": 18,
+    "section_sentence_counts": {
+      "methods": 27,
+      "results": 24,
+      "discussion": 32,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p078",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "重庆市中心城区碳储存服务评估:InVEST模型和ARIES模型对比分析",
+    "authors": "李媛媛，尹珂",
+    "doi": "10.20103/j.stxb.202405161127",
+    "filename": "2025_李媛媛_重庆市中心城区碳储存服务评估_InVEST模型和ARIES模型对比分析.pdf",
+    "position": "2025, 45(4):1575-1587.",
+    "sha256": "ff32642d528c050022de89e25e22f6e8d99922842d48e8c9c24c60a13633bb64",
+    "pdf_pages": 13,
+    "han_body_chars": 5529,
+    "sentence_count": 89,
+    "heading_count": 17,
+    "section_sentence_counts": {
+      "methods": 30,
+      "results": 25,
+      "discussion": 26,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "ARIES"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p079",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "基于袋状图和相关系数的太行山地生态系统服务权衡/协同关系",
+    "authors": "李茂娟，李天奇，朱连奇，谷艳春，张丹",
+    "doi": "10.20103/j.stxb.202310122206",
+    "filename": "2025_李茂娟_基于袋状图和相关系数的太行山地生态系统服务权衡_协同关系.pdf",
+    "position": "2025, 45(13):6512-6523.",
+    "sha256": "55ddbc85899490b89984205c40512e17ce671822be66ff2520a3bc875dbe1525",
+    "pdf_pages": 12,
+    "han_body_chars": 6968,
+    "sentence_count": 103,
+    "heading_count": 17,
+    "section_sentence_counts": {
+      "methods": 34,
+      "results": 30,
+      "discussion": 39
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "袋状图"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p080",
+    "journal": "地理学报",
+    "year": 2025,
+    "title": "基于相关系数的水文（非）一致性检验方法",
+    "authors": "牛静怡, 张利平, 吴林倩, 谢平, 霍竞群, 桑燕芳",
+    "doi": "10.11821/dlxb202509005",
+    "filename": "2025_牛静怡_基于相关系数的水文（非）一致性检验方法.pdf",
+    "position": "地理学报. 2025, 80(9): 2354-2367.",
+    "sha256": "c6ca56e5cbd16b2f1b6c2090e0d83175befeaaa8e1e643fffec06dce17270f7c",
+    "pdf_pages": 14,
+    "han_body_chars": 5034,
+    "sentence_count": 89,
+    "heading_count": 9,
+    "section_sentence_counts": {
+      "introduction": 13,
+      "methods": 19,
+      "body_other": 27,
+      "results": 17,
+      "conclusion": 13
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p081",
+    "journal": "地理学报",
+    "year": 2025,
+    "title": "中越—中老—中缅边境地区土地利用变化的地缘政治经济影响",
+    "authors": "王毅, 肖池伟, 封志明, 岳子龙, 陈舒逸, 瞿铭焕",
+    "doi": "10.11821/dlxb202509002",
+    "filename": "2025_王毅_中越—中老—中缅边境地区土地利用变化的地缘政治经济影响.pdf",
+    "position": "地理学报. 2025, 80(9): 2300-2320.",
+    "sha256": "afb410440cd523086e7102cf4e6f9924a7a7933798a925ccf42d2a5b79ab48d7",
+    "pdf_pages": 21,
+    "han_body_chars": 10595,
+    "sentence_count": 179,
+    "heading_count": 25,
+    "section_sentence_counts": {
+      "introduction": 22,
+      "body_other": 11,
+      "methods": 56,
+      "results": 71,
+      "discussion": 19
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p082",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "北京市生态系统服务演变及其对城市化的多尺度响应",
+    "authors": "田慧霞，覃阳毅，李祖政，韩丛海，丁庆伟，李芊垚，任巧慧，代伟，秦贺兰，陈洪菲，王建超，程小琴",
+    "doi": "10.20103/j.stxb.202305241093",
+    "filename": "2025_田慧霞_北京市生态系统服务演变及其对城市化的多尺度响应.pdf",
+    "position": "2025, 45(5):2209-2224.",
+    "sha256": "dc51ffef2514e81b39c72b3e8108ff03325311adf79d40202661423f166e45c5",
+    "pdf_pages": 16,
+    "han_body_chars": 5786,
+    "sentence_count": 97,
+    "heading_count": 22,
+    "section_sentence_counts": {
+      "methods": 30,
+      "results": 32,
+      "discussion": 28,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "Budyko",
+      "结构方程"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p083",
+    "journal": "地理学报",
+    "year": 2025,
+    "title": "人类活动对黄土高原生态系统服务权衡/协同关系影响的多尺度研究",
+    "authors": "赵雪雁, 丁静, 马平易",
+    "doi": "10.11821/dlxb202507013",
+    "filename": "2025_赵雪雁_人类活动对黄土高原生态系统服务权衡_协同关系影响的多尺度研究.pdf",
+    "position": "地理学报. 2025, 80(7): 1920-1936.",
+    "sha256": "37f88e40a646196bcca71dea4b7dd0899b3b108d1886c30052dfe984c7077143",
+    "pdf_pages": 17,
+    "han_body_chars": 9771,
+    "sentence_count": 163,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "introduction": 27,
+      "methods": 30,
+      "results": 47,
+      "discussion": 37,
+      "conclusion": 22
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "ARIES"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p084",
+    "journal": "地理学报",
+    "year": 2025,
+    "title": "中国城乡土地利用公平测评及时空跃迁与优化路径",
+    "authors": "邹利林, 林程, 王建英, 文琦",
+    "doi": "10.11821/dlxb202511001",
+    "filename": "2025_邹利林_中国城乡土地利用公平测评及时空跃迁与优化路径.pdf",
+    "position": "地理学报. 2025, 80(11): 2847-2868.",
+    "sha256": "bf863997ac48cb743a6c34bcd6693123207e27fb0bfea48332c43c98e70d217b",
+    "pdf_pages": 22,
+    "han_body_chars": 14431,
+    "sentence_count": 166,
+    "heading_count": 14,
+    "section_sentence_counts": {
+      "introduction": 23,
+      "body_other": 21,
+      "methods": 31,
+      "results": 66,
+      "discussion": 25
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "耦合协调"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p085",
+    "journal": "生态学报",
+    "year": 2025,
+    "title": "多源土地利用数据下景观格局对径流-泥沙影响的不确定性——以鄱阳湖区虎山流域为例",
+    "authors": "魏冲，董晓华，马耀明，彭涛，喻丹，冷梦辉",
+    "doi": "10.20103/j.stxb.202404190877",
+    "filename": "2025_魏冲_多源土地利用数据下景观格局对径流-泥沙影响的不确定性——以鄱阳湖区虎山流域为例.pdf",
+    "position": "2025, 45(3):1102-1115.",
+    "sha256": "c267b9720d6fd6d37bb767fcc962c5f1820f85034b911c44cb4ef551eb709ed5",
+    "pdf_pages": 14,
+    "han_body_chars": 4833,
+    "sentence_count": 116,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "methods": 36,
+      "results": 43,
+      "discussion": 32,
+      "conclusion": 6
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "随机森林"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p086",
+    "journal": "地理学报",
+    "year": 2025,
+    "title": "全球动态植被模型对CO2—植被驱动径流变化的不确定性研究",
+    "authors": "魏豪杉, 张永强, 刘昌明, 黄琦",
+    "doi": "10.11821/dlxb202509006",
+    "filename": "2025_魏豪杉_全球动态植被模型对CO2—植被驱动径流变化的不确定性研究.pdf",
+    "position": "地理学报. 2025, 80(9): 2368-2381.",
+    "sha256": "b601ec04b9d32590ec5e1b59d8080459bd307f3bf0a1a139c9264337830e5edd",
+    "pdf_pages": 14,
+    "han_body_chars": 4575,
+    "sentence_count": 88,
+    "heading_count": 10,
+    "section_sentence_counts": {
+      "introduction": 20,
+      "methods": 6,
+      "results_discussion": 44,
+      "conclusion": 18
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p087",
+    "journal": "地理学报",
+    "year": 2025,
+    "title": "中国土地利用转型研究进展与展望",
+    "authors": "龙花楼, 马历, 周贵鹏",
+    "doi": "10.11821/dlxb202508001",
+    "filename": "2025_龙花楼_中国土地利用转型研究进展与展望.pdf",
+    "position": "地理学报. 2025, 80(8): 1993-2015.",
+    "sha256": "dc8c0426ce33c9c24094885e8cb93b74cba8226cae4eaa3260852f45f7958713",
+    "pdf_pages": 23,
+    "han_body_chars": 15113,
+    "sentence_count": 213,
+    "heading_count": 19,
+    "section_sentence_counts": {
+      "introduction": 18,
+      "body_other": 185,
+      "conclusion": 10
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "FLUS",
+      "地理探测器"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p088",
+    "journal": "生态学报",
+    "year": 2026,
+    "title": "基于服务流的长三角生态系统服务供需时空格局演变",
+    "authors": "余昊轩，陈荣清，吴朗清",
+    "doi": "10.20103/j.stxb.202507151860",
+    "filename": "2026_余昊轩_基于服务流的长三角生态系统服务供需时空格局演变.pdf",
+    "position": "2026, 46(1):338-357.",
+    "sha256": "4b4a7877a09f88b8790a9e422ffd6c39fe7ee098e089693ba42abc27a3d64622",
+    "pdf_pages": 20,
+    "han_body_chars": 8966,
+    "sentence_count": 159,
+    "heading_count": 26,
+    "section_sentence_counts": {
+      "methods": 61,
+      "results": 67,
+      "discussion": 23,
+      "conclusion": 9
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p089",
+    "journal": "生态学报",
+    "year": 2026,
+    "title": "长三角城市群生态系统服务与经济高质量发展的耦合协调机制",
+    "authors": "宋青，张凯波，陈骏宇",
+    "doi": "10.20103/j.stxb.202503190618",
+    "filename": "2026_宋青_长三角城市群生态系统服务与经济高质量发展的耦合协调机制.pdf",
+    "position": "2026, 46(15):7936-7955.",
+    "sha256": "c598a26b5a2130a450fded23a8573298c6041b5f6da1acd581ae8ee6c52dd288",
+    "pdf_pages": 20,
+    "han_body_chars": 8129,
+    "sentence_count": 120,
+    "heading_count": 29,
+    "section_sentence_counts": {
+      "methods": 42,
+      "results": 55,
+      "conclusion": 24
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "耦合协调"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p090",
+    "journal": "生态学报",
+    "year": 2026,
+    "title": "海岸带生态韧性与土地利用强度的时空关系及影响因素--以宁波市蟹钳港为例",
+    "authors": "应超，李加林，刘永超，陈宇昕，曹罗丹，田鹏，陈璐怡",
+    "doi": "10.20103/j.stxb.202501130109",
+    "filename": "2026_应超_海岸带生态韧性与土地利用强度的时空关系及影响因素--以宁波市蟹钳港为例.pdf",
+    "position": "2026, 46(2):753-770.",
+    "sha256": "dfa7b9296dff49e10ba73f50634de72a4717cd18470e80cfb8e14b738707f09f",
+    "pdf_pages": 18,
+    "han_body_chars": 8232,
+    "sentence_count": 84,
+    "heading_count": 24,
+    "section_sentence_counts": {
+      "methods": 26,
+      "results": 46,
+      "conclusion": 13
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "地理探测器",
+      "耦合协调"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p091",
+    "journal": "生态学报",
+    "year": 2026,
+    "title": "基于InVEST-CF耦合模型的秦岭北麓国土空间修复区域识别",
+    "authors": "康文鸿，贾夏，赵永华，申艳军，钱会，彭建兵，柴文雯，司绍诚",
+    "doi": "10.20103/j.stxb.202411292934",
+    "filename": "2026_康文鸿_基于InVEST-CF耦合模型的秦岭北麓国土空间修复区域识别.pdf",
+    "position": "2026, 46(1):285-298.",
+    "sha256": "352ba03b48019404c8f9e73c5b9adf17acbc11785b685b2c628472ce4a302c15",
+    "pdf_pages": 14,
+    "han_body_chars": 5661,
+    "sentence_count": 101,
+    "heading_count": 24,
+    "section_sentence_counts": {
+      "methods": 22,
+      "results": 51,
+      "discussion": 19,
+      "conclusion": 10
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST"
+    ],
+    "legacy_font_repair": true
+  },
+  {
+    "paper_id": "p092",
+    "journal": "地理学报",
+    "year": 2026,
+    "title": "中国数字经济对城市土地利用绩效的影响机制",
+    "authors": "张杰, 李效顺, 耿艺伟, 陈姜全, 张轲",
+    "doi": "10.11821/dlxb202603011",
+    "filename": "2026_张杰_中国数字经济对城市土地利用绩效的影响机制.pdf",
+    "position": "地理学报. 2026, 81(3): 807-824.",
+    "sha256": "d243af1fd933ce4464aee1248bd7ad1b4f00c282974a46174814a9d90bce06ec",
+    "pdf_pages": 18,
+    "han_body_chars": 11362,
+    "sentence_count": 181,
+    "heading_count": 21,
+    "section_sentence_counts": {
+      "introduction": 26,
+      "results": 115,
+      "body_other": 19,
+      "discussion": 22
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p093",
+    "journal": "地理学报",
+    "year": 2026,
+    "title": "黄河水源涵养区源头小流域径流变化的驱动机制",
+    "authors": "朱薇儒, 梁康, 刘昌明",
+    "doi": "10.11821/dlxb202605009",
+    "filename": "2026_朱薇儒_黄河水源涵养区源头小流域径流变化的驱动机制.pdf",
+    "position": "地理学报. 2026, 81(5): 1395-1414.",
+    "sha256": "d3ad3e534ca1805d8fdbf3d4fc23372d2ba1b96a99652e868131507ba7bb4ee5",
+    "pdf_pages": 20,
+    "han_body_chars": 9686,
+    "sentence_count": 164,
+    "heading_count": 23,
+    "section_sentence_counts": {
+      "introduction": 22,
+      "methods": 59,
+      "results": 46,
+      "discussion": 30,
+      "conclusion": 8
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "SWAT",
+      "Budyko",
+      "XGBoost",
+      "Mann-Kendall"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p094",
+    "journal": "地理学报",
+    "year": 2026,
+    "title": "城市群国土空间生态网络韧性的可达性扰动效应",
+    "authors": "李涛, 卢进发, 周航, 王姣娥",
+    "doi": "10.11821/dlxb202609011",
+    "filename": "2026_李涛_城市群国土空间生态网络韧性的可达性扰动效应.pdf",
+    "position": "地理学报. 2026, 81(9): 2970-2986.",
+    "sha256": "72759793e6fed94be55ce8b5577663bdb12341c05f76732a1f2c6f82d09eb1f5",
+    "pdf_pages": 17,
+    "han_body_chars": 9764,
+    "sentence_count": 156,
+    "heading_count": 18,
+    "section_sentence_counts": {
+      "introduction": 22,
+      "methods": 56,
+      "results": 61,
+      "discussion": 17
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "随机森林"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p095",
+    "journal": "地理学报",
+    "year": 2026,
+    "title": "社会—生态网络：生态系统服务关联分析新视角",
+    "authors": "林逸凡, 彭建, 林一帆, 余姝颖",
+    "doi": "10.11821/dlxb202605003",
+    "filename": "2026_林逸凡_社会—生态网络：生态系统服务关联分析新视角.pdf",
+    "position": "地理学报. 2026, 81(5): 1292-1306.",
+    "sha256": "de03b8fb56470efcfe0e320f796d9fcc511da104c145e53cfcbfe73d2e4f7ffb",
+    "pdf_pages": 15,
+    "han_body_chars": 9248,
+    "sentence_count": 127,
+    "heading_count": 12,
+    "section_sentence_counts": {
+      "introduction": 14,
+      "body_other": 67,
+      "results": 46
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "自组织"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p096",
+    "journal": "地理学报",
+    "year": 2026,
+    "title": "2003—2023年辽河流域生态系统服务动态演变及影响机制",
+    "authors": "王辉, 杨若琦, 虞虎",
+    "doi": "10.11821/dlxb202609016",
+    "filename": "2026_王辉_2003—2023年辽河流域生态系统服务动态演变及影响机制.pdf",
+    "position": "地理学报. 2026, 81(9): 3070-3089.",
+    "sha256": "af79f8ced83e2d7fa15733fb668b7b612ef34de85a9a98fcbffbf7e58fc6bbe1",
+    "pdf_pages": 20,
+    "han_body_chars": 10474,
+    "sentence_count": 161,
+    "heading_count": 20,
+    "section_sentence_counts": {
+      "introduction": 26,
+      "methods": 44,
+      "results": 58,
+      "discussion": 18,
+      "conclusion": 15
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "地理探测器",
+      "随机森林",
+      "地理加权回归"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p097",
+    "journal": "地理学报",
+    "year": 2026,
+    "title": "黄河流域水生态系统服务时空演变及驱动机制",
+    "authors": "白继洲, 李晶, 周自翔, 张娅, 王楚涵, 刘宪锋, 李柏延",
+    "doi": "10.11821/dlxb202607015",
+    "filename": "2026_白继洲_黄河流域水生态系统服务时空演变及驱动机制.pdf",
+    "position": "地理学报. 2026, 81(7): 2248-2267.",
+    "sha256": "7ac7f6275d36ff4b4c3dd3c717765f4ab91724a9cc35bd4653f1eaf020ff4bc5",
+    "pdf_pages": 20,
+    "han_body_chars": 11027,
+    "sentence_count": 203,
+    "heading_count": 19,
+    "section_sentence_counts": {
+      "introduction": 19,
+      "methods": 7,
+      "body_other": 34,
+      "results": 98,
+      "discussion": 41,
+      "conclusion": 4
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "SWAT",
+      "WRF",
+      "ARIES",
+      "NSE",
+      "XGBoost"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p098",
+    "journal": "地理学报",
+    "year": 2026,
+    "title": "生态系统服务嵌入的贵州省生态资本投入与环境部门响应模拟",
+    "authors": "瞿绍懂, 高江波, 王伦澈",
+    "doi": "10.11821/dlxb202607013",
+    "filename": "2026_瞿绍懂_生态系统服务嵌入的贵州省生态资本投入与环境部门响应模拟.pdf",
+    "position": "地理学报. 2026, 81(7): 2209-2226.",
+    "sha256": "80cbd225f061085ba233c4813ded729a84bb0f0e220e6cebb62fe538d24d05d1",
+    "pdf_pages": 18,
+    "han_body_chars": 9383,
+    "sentence_count": 161,
+    "heading_count": 16,
+    "section_sentence_counts": {
+      "introduction": 19,
+      "methods": 64,
+      "results": 40,
+      "discussion": 34,
+      "conclusion": 5
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "耦合协调"
+    ],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p099",
+    "journal": "地理学报",
+    "year": 2026,
+    "title": "苏皖沿江平原全新世水文气候变化与先秦时期聚落遗址演变响应",
+    "authors": "罗文菁, 吴立, 马春梅, 路曙光, 许子怡, 管后春, 于圣佳, 方芯悦, 周迎秋",
+    "doi": "10.11821/dlxb202603009",
+    "filename": "2026_罗文菁_苏皖沿江平原全新世水文气候变化与先秦时期聚落遗址演变响应.pdf",
+    "position": "地理学报. 2026, 81(3): 771-792.",
+    "sha256": "cf7e2c0dfcef01e19f65f4bc2db2bdc24df12b36c9fd2c3293a55dad8b34ab1f",
+    "pdf_pages": 22,
+    "han_body_chars": 10974,
+    "sentence_count": 198,
+    "heading_count": 17,
+    "section_sentence_counts": {
+      "introduction": 27,
+      "methods": 31,
+      "body_other": 133,
+      "conclusion": 8
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [],
+    "legacy_font_repair": false
+  },
+  {
+    "paper_id": "p100",
+    "journal": "生态学报",
+    "year": 2026,
+    "title": "基于InVEST-PLUS-GeoDectetor模型的浙江大陆海岸带生态系统碳储量时空演变特征及多情景预测",
+    "authors": "胡增琳，曹罗丹，李加林，应超，刘永超",
+    "doi": "10.20103/j.stxb.202503180611",
+    "filename": "2026_胡增琳_基于InVEST-PLUS-GeoDectetor模型的浙江大陆海岸带生态系统碳储量时空演变特征及多情景预测.pdf",
+    "position": "2026, 46(7):3695-3711.",
+    "sha256": "3cf848f222e0ef2a2edf7a133991bf7a5945dc5377151315dbbeab8d058b7835",
+    "pdf_pages": 17,
+    "han_body_chars": 5637,
+    "sentence_count": 101,
+    "heading_count": 18,
+    "section_sentence_counts": {
+      "methods": 37,
+      "body_other": 39,
+      "discussion": 18,
+      "conclusion": 7
+    },
+    "extraction_warning": false,
+    "methods_mentioned": [
+      "InVEST",
+      "PLUS",
+      "Kappa",
+      "地理探测器",
+      "随机森林"
+    ],
+    "legacy_font_repair": true
+  }
+]

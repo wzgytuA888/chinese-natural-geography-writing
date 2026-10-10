@@ -1,0 +1,76 @@
+{
+  "series": [
+    {
+      "id": "carbon",
+      "source": "synthetic-C01",
+      "indicator": "碳储量",
+      "unit": "万t",
+      "kind": "model_estimate",
+      "scale": "研究区",
+      "observations": [
+        {
+          "time": 2000,
+          "value": 120
+        },
+        {
+          "time": 2020,
+          "value": 132
+        }
+      ]
+    },
+    {
+      "id": "forest_share",
+      "source": "synthetic-C01",
+      "indicator": "林地面积占比",
+      "unit": "%",
+      "kind": "model_estimate",
+      "scale": "研究区",
+      "observations": [
+        {
+          "time": 2000,
+          "value": 20
+        },
+        {
+          "time": 2020,
+          "value": 25
+        }
+      ]
+    },
+    {
+      "id": "habitat",
+      "source": "synthetic-C10",
+      "indicator": "生境质量指数",
+      "unit": "dimensionless",
+      "kind": "model_estimate",
+      "scale": "县域",
+      "observations": [
+        {
+          "time": 2010,
+          "value": 0.2
+        },
+        {
+          "time": 2020,
+          "value": 0.25
+        }
+      ]
+    },
+    {
+      "id": "zero_base",
+      "source": "synthetic-C08",
+      "indicator": "零基准指数",
+      "unit": "dimensionless",
+      "kind": "model_estimate",
+      "scale": "研究区",
+      "observations": [
+        {
+          "time": 2010,
+          "value": 0
+        },
+        {
+          "time": 2020,
+          "value": 5
+        }
+      ]
+    }
+  ]
+}
